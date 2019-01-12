@@ -1,7 +1,2 @@
 jdk:
   - openjdk11
-before_install:
-   - ./prepareEnvironment.sh
-install:
-   - echo "Running a custom install command"
-   - mvn clean install -DskipTests
