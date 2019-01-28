@@ -21,7 +21,7 @@
     <id>vertx-helloworld</id>
     <files>
         <file>
-            <source>target/modules/moditect-integrationtest-vertx-1.0.0-SNAPSHOT.jar</source>
+            <source>target/modules/moditect-integrationtest-vertx-1.0.0-jitpack2.jar</source>
         </file>
     </files>
 </assembly>

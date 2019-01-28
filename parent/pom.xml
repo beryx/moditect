@@ -21,7 +21,7 @@
 
     <groupId>org.moditect</groupId>
     <artifactId>moditect-parent</artifactId>
-    <version>1.0.0-jitpack1</version>
+    <version>1.0.0-jitpack2</version>
     <packaging>pom</packaging>
 
     <name>ModiTect Parent</name>
